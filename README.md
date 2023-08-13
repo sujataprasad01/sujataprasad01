@@ -19,6 +19,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/sujata-prasad-262201245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujata-prasad-262201245" height="30" width="40" /></a>
 <a href="https://instagram.com/sujataprasad01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sujataprasad01" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sujataprasad01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sujataprasad01" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
